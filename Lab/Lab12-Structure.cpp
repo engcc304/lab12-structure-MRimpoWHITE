@@ -88,7 +88,6 @@
 */
 
 #include <stdio.h>
-#include <string.h>
 
 struct Student {
         char Name[20] ;
